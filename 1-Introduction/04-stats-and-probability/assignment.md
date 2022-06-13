@@ -13,10 +13,10 @@ In this assignment, we will work with a small dataset of diabetes patients taken
 
 * Open the [assignment notebook](assignment.ipynb) in a jupyter notebook environment
 * Complete all tasks listed in the notebook, namely:
-   * [ ] Compute mean values and variance for all values
-   * [ ] Plot boxplots for BMI, BP and Y depending on gender
-   * [ ] What is the the distribution of Age, Sex, BMI and Y variables?
-   * [ ] Test the correlation between different variables and disease progression (Y)
+   * [✓] Compute mean values and variance for all values
+   * [✓] Plot boxplots for BMI, BP and Y depending on gender
+   * [✓] What is the the distribution of Age, Sex, BMI and Y variables?
+   * [✓] Test the correlation between different variables and disease progression (Y)
    * [ ] Test the hypothesis that the degree of diabetes progression is different between men and women
    
 ## Rubric
@@ -24,3 +24,5 @@ In this assignment, we will work with a small dataset of diabetes patients taken
 Exemplary | Adequate | Needs Improvement
 --- | --- | -- |
 All required tasks are complete, graphically illustrated and explained | Most of the tasks are complete, explanations or takeaways from graphs and/or obtained values are missing | Only basic tasks such as computation of mean/variance and basic plots are complete, no conclusions are made from the data
+
+NuwanS | 13/06/2022
